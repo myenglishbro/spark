@@ -23,23 +23,21 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
-    content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+    title: "Horario flexible",
+    content: "Te ofrecemos la posibilidad de aprender en función de tus horarios. Reserva tus clases cuando quieras aprender.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
-    content:
-      "We take proactive steps make sure your information and transactions are secure.",
+    title: "Plataforma todo en uno",
+    content: "Todo tu aprendizaje en una plataforma completa que te acompañará en cualquier lugar.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Asequible",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Con clases desde S/.1 , Spark! ofrece aprendizaje de idiomas a distancia que se ajusta a cualquier bolsillo.",
   },
 ];
 
@@ -73,7 +71,7 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Students Transformed",
     value: "3800+",
   },
   {
@@ -83,8 +81,8 @@ export const stats = [
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Highly Recommended",
+    value: "98%",
   },
 ];
 
