@@ -16,7 +16,7 @@ export const navLinks = [
   {
     id: "clients",
     title: "Clients",
-  },
+  }
 ];
 
 export const features = [
@@ -128,12 +128,12 @@ export const footerLinks = [
         link: "https://www.hoobank.com/suggestions/",
       },
       {
-        name: "Blog",
-        link: "https://www.hoobank.com/blog/",
+        name: "Library",
+        link: "https://ucollege-meb.vercel.app/Store",
       },
       {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
+        name: "Prices",
+        link: "https://ucollege-meb.vercel.app/Store",
       },
     ],
   },
@@ -166,7 +166,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://ucollege-meb.vercel.app/Store",
   },
   {
     id: "social-media-4",
