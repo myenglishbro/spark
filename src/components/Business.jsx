@@ -22,11 +22,10 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Enjoy your lesson, <br className="sm:block hidden" /> we’ll take
-       your English to the next Level.
+        Por qué deberías <br className="sm:block hidden" /> Aprender Inglés con Nosotros?
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      With each lesson, you are not just investing in education, but also in unlocking a world of opportunities through enhanced English skills.
+      Spark is an online English school that connects students and native English teachers globally through 1-on-1 online English courses
       </p>
 
       <Button styles={`mt-10`} />

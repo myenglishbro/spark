@@ -14,16 +14,16 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-      Estudía Gratis<br className="sm:block hidden" />  por 30 días
+      Estudia Gratis<br className="sm:block hidden" />  por 30 días
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Déjame un review en mi perfil de Linkedin y obten un mes gratis en la plataforma UDEMY 
+      ¿La mejor parte? No te pedimos dinero. Todo lo que necesitas hacer es dejarnos un review en tu perfil de LinkedIn después de haber completado algún curso en Udemy. Tu opinión sincera nos ayudará a mejorar y brindar una experiencia aún mejor a nuestros estudiantes.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-5 mt-6">
-      <img src={apple} alt="google_play" className="w-[128.86px] h-[42.05px] object-contain mr-5 cursor-pointer" />
+      <a href="https://www.udemy.com/user/carlos-apolaya-sanchez/"><img src={apple} alt="google_play" className="w-[128.86px] h-[42.05px] object-contain mr-5 cursor-pointer" /></a>
 
-        <img src={google} alt="google_play" className="w-[144.17px] h-[43.08px] object-contain cursor-pointer" />
+       <a href="https://www.linkedin.com/in/carlosapolaya/"><img src={google} alt="google_play" className="w-[174.17px] h-[43.08px] object-contain cursor-pointer" /> </a> 
       </div>
     </div>
   </section>
